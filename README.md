@@ -3,6 +3,7 @@
     - [List of Awesome Layer 2 Projects](https://www.block123.com/en/feature/awesome-layer-2-list/)
         - [Lightning Network](https://lightning.network/?ref=block123)
         - [Raiden Network](https://raiden.network/?ref=block123)
+    - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
 
 
 - [Proof of space](https://en.wikipedia.org/wiki/Proof_of_space)
