@@ -4,6 +4,11 @@
         - [Lightning Network](https://lightning.network/?ref=block123)
         - [Raiden Network](https://raiden.network/?ref=block123)
             - [Raiden Network Protocol Explained](https://www.youtube.com/watch?v=jlcYmQHHutU&t=591s)
+                - PAYMENT CHANNELS
+                - MEDIATED TRANSFERS
+                - ROUTING A PAYMENT
+                - SEND MULTIPLENDING TRANSFERS
+                - SETTLE MULTIPLENDING TRANSFERS
     - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
 
 
