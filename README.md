@@ -9,6 +9,10 @@
                 - ROUTING A PAYMENT
                 - SEND MULTIPLENDING TRANSFERS
                 - SETTLE MULTIPLENDING TRANSFERS
+            - [Mediation Fees](https://raiden-network.readthedocs.io/en/stable/using-raiden-on-mainnet/overview.html#open-a-channel)
+                - [Dynamic Mediation Fees in Raiden Explained](https://medium.com/raiden-network/dynamic-mediation-fees-in-raiden-explained-dbc29f032e4b)
+                - [Mediation Fees calculation and message format](https://github.com/raiden-network/raiden-services/blob/master/adr/003-mediation-fees.md)
+                
     - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
 
 
