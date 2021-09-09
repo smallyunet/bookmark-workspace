@@ -22,6 +22,10 @@
             - [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
                 
     - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
+    - [What Are Cryptocurrency Layer 2 Scaling Solutions?](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
+        - Zero-Knowledge Rollups 
+        - Optimistic Rollups
+        - Plasma
 
 ---
 
