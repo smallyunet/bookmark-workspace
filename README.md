@@ -3,7 +3,8 @@
 ---
 
 - Layer 2
-    - [List of Awesome Layer 2 Projects](https://www.block123.com/en/feature/awesome-layer-2-list/)
+    - State channels
+       
         - [Lightning Network](https://lightning.network/?ref=block123)
             - [The Bitcoin Lightning Network](https://lightning.network/lightning-network-summary.pdf)
             - [The Bitcoin Lightning Network:: Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf)
@@ -17,15 +18,20 @@
             - [Mediation Fees](https://raiden-network.readthedocs.io/en/stable/using-raiden-on-mainnet/overview.html#open-a-channel)
                 - [Dynamic Mediation Fees in Raiden Explained](https://medium.com/raiden-network/dynamic-mediation-fees-in-raiden-explained-dbc29f032e4b)
                 - [Mediation Fees calculation and message format](https://github.com/raiden-network/raiden-services/blob/master/adr/003-mediation-fees.md)
-        - [L4](https://l4.ventures/)
-            - [State channels](https://statechannels.org/?ref=block123)
-            - [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+        - [xLumi](https://v.systems/payment)
+            - [xLumi: Payment Channel Protocol and Off-chain 2 Payment in Blockchain Contract Systems](https://v.systems/static/xlumiwhitepaperen.pdf)
+
                 
-    - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
-    - [What Are Cryptocurrency Layer 2 Scaling Solutions?](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
-        - Zero-Knowledge Rollups 
-        - Optimistic Rollups
-        - Plasma
+    - Reference
+        - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
+        - [What Are Cryptocurrency Layer 2 Scaling Solutions?](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
+            - Zero-Knowledge Rollups 
+            - Optimistic Rollups
+            - Plasma
+        - [List of Awesome Layer 2 Projects](https://www.block123.com/en/feature/awesome-layer-2-list/)
+            - [L4](https://l4.ventures/)
+                - [State channels](https://statechannels.org/?ref=block123)
+                - [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 
 ---
 
