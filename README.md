@@ -26,6 +26,7 @@
                 - [Mediation Fees calculation and message format](https://github.com/raiden-network/raiden-services/blob/master/adr/003-mediation-fees.md)
         - [xLumi](https://v.systems/payment)
             - [xLumi: Payment Channel Protocol and Off-chain 2 Payment in Blockchain Contract Systems](https://v.systems/static/xlumiwhitepaperen.pdf)
+            
                 
     - Reference
         - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
@@ -40,6 +41,10 @@
 
     - Dijkstra
         - [Lecture 10: Dijkstra’s Shortest Path Algorithm](https://home.cse.ust.hk/~dekai/271/notes/L10/L10.pdf)
+        - [Understanding Dijkstra Algorithm](https://www.researchgate.net/publication/273264449_Understanding_Dijkstra_Algorithm)
+        - [Lecture 18 Solving Shortest Path Problem: Dijkstra’s Algorithm](http://www.ifp.illinois.edu/~angelia/ge330fall09_dijkstra_l18.pdf)
+        - [DIJKSTRA'S ALGORITHM](https://www.cartagena99.com/recursos/alumnos/apuntes/dijkstra_algorithm.pdf)
+
 
 ---
 
