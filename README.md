@@ -1,4 +1,10 @@
 
+---
+
+- Lecture
+    - [COMP 271 Design and Analysis of Algorithms](https://home.cse.ust.hk/~dekai/271/)
+
+
 
 ---
 
@@ -20,7 +26,6 @@
                 - [Mediation Fees calculation and message format](https://github.com/raiden-network/raiden-services/blob/master/adr/003-mediation-fees.md)
         - [xLumi](https://v.systems/payment)
             - [xLumi: Payment Channel Protocol and Off-chain 2 Payment in Blockchain Contract Systems](https://v.systems/static/xlumiwhitepaperen.pdf)
-
                 
     - Reference
         - [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/pdf/2107.10881.pdf)
@@ -32,6 +37,9 @@
             - [L4](https://l4.ventures/)
                 - [State channels](https://statechannels.org/?ref=block123)
                 - [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+
+    - Dijkstra
+        - [Lecture 10: Dijkstra’s Shortest Path Algorithm](https://home.cse.ust.hk/~dekai/271/notes/L10/L10.pdf)
 
 ---
 
