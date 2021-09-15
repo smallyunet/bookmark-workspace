@@ -1,12 +1,15 @@
 
----
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+    - [Shortest path problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
+    - [Minimum spanning tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
+
+
+------------------------------------------------------------
 
 - Lecture
     - [COMP 271 Design and Analysis of Algorithms](https://home.cse.ust.hk/~dekai/271/)
 
-
-
----
+------------------------------------------------------------
 
 - Layer 2
     - State channels
@@ -46,7 +49,7 @@
         - [DIJKSTRA'S ALGORITHM](https://www.cartagena99.com/recursos/alumnos/apuntes/dijkstra_algorithm.pdf)
 
 
----
+------------------------------------------------------------
 
 - [Proof of space](https://en.wikipedia.org/wiki/Proof_of_space)
     - Concepts
@@ -69,6 +72,6 @@
         - Spacemesh
             - [Sia: Simple Decentralized Storage](https://sia.tech/sia.pdf)
 
----
+------------------------------------------------------------
 
 
