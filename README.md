@@ -1,6 +1,14 @@
 
+---
+
+- Books
+    - [The Mythical Man-Month](http://www.cesarkallas.net/arquivos/livros/informatica/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf) - Frederick P. Brooks, Jr
+
+---
+
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
     - [Shortest path problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
+        - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
     - [Minimum spanning tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 
 
