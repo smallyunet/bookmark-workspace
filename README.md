@@ -47,6 +47,7 @@
             - Zero-Knowledge Rollups 
             - Optimistic Rollups
             - Plasma
+                - [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf)
         - [List of Awesome Layer 2 Projects](https://www.block123.com/en/feature/awesome-layer-2-list/)
             
 
