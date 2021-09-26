@@ -11,11 +11,15 @@
         - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
     - [Minimum spanning tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 
-
 ------------------------------------------------------------
 
-- Lecture
+- Alogrithm
     - [COMP 271 Design and Analysis of Algorithms](https://home.cse.ust.hk/~dekai/271/)
+    - Dijkstra
+        - [Lecture 10: Dijkstra’s Shortest Path Algorithm](https://home.cse.ust.hk/~dekai/271/notes/L10/L10.pdf)
+        - [Understanding Dijkstra Algorithm](https://www.researchgate.net/publication/273264449_Understanding_Dijkstra_Algorithm)
+        - [Lecture 18 Solving Shortest Path Problem: Dijkstra’s Algorithm](http://www.ifp.illinois.edu/~angelia/ge330fall09_dijkstra_l18.pdf)
+        - [DIJKSTRA'S ALGORITHM](https://www.cartagena99.com/recursos/alumnos/apuntes/dijkstra_algorithm.pdf)
 
 ------------------------------------------------------------
 
@@ -49,14 +53,7 @@
             - Plasma
                 - [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf)
         - [List of Awesome Layer 2 Projects](https://www.block123.com/en/feature/awesome-layer-2-list/)
-            
-
-    - Dijkstra
-        - [Lecture 10: Dijkstra’s Shortest Path Algorithm](https://home.cse.ust.hk/~dekai/271/notes/L10/L10.pdf)
-        - [Understanding Dijkstra Algorithm](https://www.researchgate.net/publication/273264449_Understanding_Dijkstra_Algorithm)
-        - [Lecture 18 Solving Shortest Path Problem: Dijkstra’s Algorithm](http://www.ifp.illinois.edu/~angelia/ge330fall09_dijkstra_l18.pdf)
-        - [DIJKSTRA'S ALGORITHM](https://www.cartagena99.com/recursos/alumnos/apuntes/dijkstra_algorithm.pdf)
-
+        - [SCALING](https://ethereum.org/en/developers/docs/scaling/)
 
 ------------------------------------------------------------
 
