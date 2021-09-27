@@ -25,8 +25,6 @@
 
 - Consensus
     - [Proof of authority](https://en.wikipedia.org/wiki/Proof_of_authority)
-    - [Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
-
 
 ------------------------------------------------------------
 
@@ -34,6 +32,9 @@
     - Zero Knowledge rollups
         - [Loopring](https://loopring.org/#/)
             - [Loopring: A Decentralized Token Exchange Protocol](https://loopring.org/resources/en_whitepaper.pdf)
+            - [Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
+        - [Starkware](https://starkware.co/)
+
     - State channels
         - [Lightning Network](https://lightning.network/?ref=block123)
             - [The Bitcoin Lightning Network](https://lightning.network/lightning-network-summary.pdf)
