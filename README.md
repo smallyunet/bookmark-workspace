@@ -34,6 +34,8 @@
             - [Loopring: A Decentralized Token Exchange Protocol](https://loopring.org/resources/en_whitepaper.pdf)
             - [Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
         - [Starkware](https://starkware.co/)
+        - [Matter Labs zkSync](https://zksync.io/)
+            - [zkPorter: a breakthrough in L2 scaling](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf)
 
     - State channels
         - [Lightning Network](https://lightning.network/?ref=block123)
