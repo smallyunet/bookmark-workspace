@@ -36,6 +36,17 @@
         - [Starkware](https://starkware.co/)
         - [Matter Labs zkSync](https://zksync.io/)
             - [zkPorter: a breakthrough in L2 scaling](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf)
+        - [Aztec 2.0](https://aztec.network/)
+            - [PlonK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
+        - [Hermez network](https://hermez.io/)
+            - [Hermez White Paper](https://hermez.io/hermez-whitepaper.pdf)
+        - [dYdX](https://dydx.exchange/)
+            - [Starkware's documentation](https://docs.starkware.co/starkex-docs-v2-deprecated/)
+
+    - Optimistic rollups
+        - Arbitrum
+            - [Arbitrum Rollup Basics](https://developer.offchainlabs.com/docs/rollup_basics)
+        - [Optimistic](https://optimism.io/)
 
     - State channels
         - [Lightning Network](https://lightning.network/?ref=block123)
