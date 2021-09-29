@@ -1,8 +1,9 @@
 
 - Books
     - [The Mythical Man-Month](http://www.cesarkallas.net/arquivos/livros/informatica/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf) - Frederick P. Brooks, Jr
+    - [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
----
+------------------------------------------------------------
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
     - [Shortest path problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
