@@ -1,6 +1,4 @@
 
----
-
 - Books
     - [The Mythical Man-Month](http://www.cesarkallas.net/arquivos/livros/informatica/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf) - Frederick P. Brooks, Jr
 
@@ -25,6 +23,34 @@
 
 - Consensus
     - [Proof of authority](https://en.wikipedia.org/wiki/Proof_of_authority)
+    - [Proof of space](https://en.wikipedia.org/wiki/Proof_of_space)
+        - Concepts
+            - Proof of storage
+            - Proof of capacity
+            - Proof of space-time
+        - Uses
+            - Signum (Burstcoin)
+                - [Bussiness White Paper](https://signum.network/wp/Signum_Business_Whitepaper.pdf)
+                - Poc+
+                    - PoC+ Capacity
+                    - PoC+ Commitment
+                    - PoC+ Factor
+            - Siacoin
+                - [Simple Proofs of Space-Time and Rational Proofs of Storage](https://eprint.iacr.org/2016/035)
+            - SpaceMint
+                - [SpaceMint: A Cryptocurrency Based on Proofs of Space](https://eprint.iacr.org/2015/528.pdf)
+            - chia
+                - [Bussiness Whitepaper](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
+            - Spacemesh
+                - [Sia: Simple Decentralized Storage](https://sia.tech/sia.pdf)
+    - [Proof of History](https://tokens-economy.gitbook.io/consensus/chain-based-proof-of-capacity-space/proof-of-history)
+        - [Proof of History: A Clock for Blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
+    - BFT
+        - [Tower BFT](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79)
+    - Proof of Replication
+        - [PoReps: Proofs of Space on Useful Data](https://eprint.iacr.org/2018/678.pdf)
+
+        
 
 ------------------------------------------------------------
 
@@ -77,30 +103,4 @@
                 - [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf)
         - [List of Awesome Layer 2 Projects](https://www.block123.com/en/feature/awesome-layer-2-list/)
         - [SCALING](https://ethereum.org/en/developers/docs/scaling/)
-
-------------------------------------------------------------
-
-- [Proof of space](https://en.wikipedia.org/wiki/Proof_of_space)
-    - Concepts
-        - Proof of storage
-        - Proof of capacity
-        - Proof of space-time
-    - Uses
-        - Signum (Burstcoin)
-            - [Bussiness White Paper](https://signum.network/wp/Signum_Business_Whitepaper.pdf)
-            - Poc+
-                - PoC+ Capacity
-                - PoC+ Commitment
-                - PoC+ Factor
-        - Siacoin
-            - [Simple Proofs of Space-Time and Rational Proofs of Storage](https://eprint.iacr.org/2016/035)
-        - SpaceMint
-            - [SpaceMint: A Cryptocurrency Based on Proofs of Space](https://eprint.iacr.org/2015/528.pdf)
-        - chia
-            - [Bussiness Whitepaper](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
-        - Spacemesh
-            - [Sia: Simple Decentralized Storage](https://sia.tech/sia.pdf)
-
-------------------------------------------------------------
-
 
