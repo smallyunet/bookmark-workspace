@@ -24,6 +24,8 @@
 ------------------------------------------------------------
 
 - Consensus
+    - Proof of work
+        - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
     - [Proof of authority](https://en.wikipedia.org/wiki/Proof_of_authority)
     - [Proof of space](https://en.wikipedia.org/wiki/Proof_of_space)
         - Concepts
