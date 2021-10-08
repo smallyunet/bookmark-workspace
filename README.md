@@ -1,7 +1,4 @@
 
-> Move to: https://github.com/smallyunet/gloosary-book
-
-------------------------------------------------------------
 
 - Books
     - [The Mythical Man-Month](http://www.cesarkallas.net/arquivos/livros/informatica/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf) - Frederick P. Brooks, Jr
@@ -54,6 +51,9 @@
         - [Tower BFT](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79)
     - Proof of Replication
         - [PoReps: Proofs of Space on Useful Data](https://eprint.iacr.org/2018/678.pdf)
+    - [Proof of data possession](http://cryptowiki.net/index.php?title=Proof_of_data_possession)
+        - [Provable Data Possession at Untrusted Stores](https://people.eecs.berkeley.edu/~dawnsong/papers/p598-ateniese)
+        - [A Blockchain and Directed Acyclic Graph-integrated Secure Data Flow System](https://cybervein.obs.cn-east-3.myhuaweicloud.com/Whitepaper_V3_CyberVein%20English.pdf)
 
         
 ------------------------------------------------------------
