@@ -100,6 +100,7 @@
                         - [Dynamic Mediation Fees in Raiden Explained](https://medium.com/raiden-network/dynamic-mediation-fees-in-raiden-explained-dbc29f032e4b)
                         - [Mediation Fees calculation and message format](https://github.com/raiden-network/raiden-services/blob/master/adr/003-mediation-fees.md)
                         - [Risk of draining funds through imbalance fees](https://docs.raiden.network/en/v2.0.0/adr/0007-drain-imbalance-fee.html)
+                        - [The Lightning Network (Part 2) – Routing Fee Economics](https://blog.bitmex.com/the-lightning-network-part-2-routing-fee-economics/)
                 - [xLumi](https://v.systems/payment)
                     - [xLumi: Payment Channel Protocol and Off-chain 2 Payment in Blockchain Contract Systems](https://v.systems/static/xlumiwhitepaperen.pdf)
                 - [L4](https://l4.ventures/)
