@@ -96,6 +96,7 @@
                         - ROUTING A PAYMENT
                         - SEND MULTIPLENDING TRANSFERS
                         - SETTLE MULTIPLENDING TRANSFERS
+                    - [Raiden Protocol Explained](https://medium.com/raiden-network/raiden-protocol-explained-489b429fcd90)
                     - [Mediation Fees](https://raiden-network.readthedocs.io/en/stable/using-raiden-on-mainnet/overview.html#open-a-channel)
                         - [Dynamic Mediation Fees in Raiden Explained](https://medium.com/raiden-network/dynamic-mediation-fees-in-raiden-explained-dbc29f032e4b)
                         - [Mediation Fees calculation and message format](https://github.com/raiden-network/raiden-services/blob/master/adr/003-mediation-fees.md)
